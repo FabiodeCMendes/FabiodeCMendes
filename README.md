@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu, Fabio Mendes, agradeço sua visita !
 
-<!--
-**FabiodeCMendes/FabiodeCMendes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏢 Sobre Mim
+Especialista em **Business Intelligence e Análise de Dados** com mais de 20 anos de experiência transformando dados em decisões estratégicas em empresas nacionais e multinacionais. 
 
-Here are some ideas to get you started:
+Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, governança, qualidade de dados e no desenvolvimento de arquiteturas de dados complexas, incluindo **Data Warehouses, Data Marts e processos de ETL**. Minha atuação une a eficiência técnica na modelagem de dados (SQL, Oracle, SQL Server) à entrega de valor na ponta final através de Dashboards analíticos integrados de alto impacto (Power BI, SAP BO, Python...).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias Dominadas |
+| :--- | :--- |
+| **Business Intelligence & Analytics** | Power BI (DAX), SAP Business Objects, Storytelling com Dados |
+| **Bancos de Dados & Armazenamento** | SQL, PL/SQL (CTE), Oracle, SQL Server, PostgreSQL, AWS Athena, Amazon S3 | Azure 
+| **Integração & Engenharia de Dados**| ETL, Modelagem Dimensional/Relacional, Data Warehouse, Cubos, Python |
+
+<br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=anaconda,vscode,python,r,mysql,postgres,aws,azure,obsidian,figma,docker,github,linux,md,notion" />
+  </a>
+</p>
