@@ -21,4 +21,17 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=anaconda,vscode,python,r,mysql,postgres,aws,azure,obsidian,figma,docker,github,linux,md,notion" />
   </a>
-</p>
+/p>
+<div style="display: flex; justify-content: center;gap: 15px;">
+<img src="./imgs/icones/icone-sql-azul.webp" width="40" height="40" alt="SQL">
+<img src="./imgs/icones/icone-powerbi.svg" width="40" height="40" alt="Power BI">
+<img src="./imgs/icones/icone-python.svg" width="40" height="40" alt="Python">
+<img src="./imgs/icones/icon-analise-dados.svg" width="40" height="40" alt="Análise de Dados">
+<img src="./imgs/icones/icone-ciencia-dados.svg" width="40" height="40" alt="Ciências de dados">
+<img src="./imgs/icones/icone-nocode-2.webp" width="40" height="40" alt="Inteligencia Artificial">
+<img src="./imgs/icones/icone-agentes-ia-n8n.webp" width="40" height="40" alt="Agentes de IA">
+<img src="./imgs/icones/icon-claude.svg" width="40" height="40" alt="Claude">
+<img src="./imgs/icones/icone-excel.svg" width="40" height="40" alt="Excel">
+<img src="./imgs/icones/icone-powerpoint.svg" width="40" height="40" alt="Power Point">
+<img src="./imgs/icones/icon-agentes-ia-n8n.svg" width="40" height="40" alt="n8n">
+</div>
