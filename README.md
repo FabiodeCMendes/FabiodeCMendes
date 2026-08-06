@@ -23,7 +23,7 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <img src="imgs/icones/icone-python.svg" width="40" height="40" alt="Python">
 <img src="imgs/icones/icon-analise-dados.svg" width="40" height="40" alt="Análise de Dados">
 <img src="imgs/icones/icone-ciencia-dados.svg" width="40" height="40" alt="Ciências de dados">
-  <img src="imgs/icones/databricks.png" width="40" height="40" alt="Databricks">
+<img src="imgs/icones/databricks.png" width="40" height="40" alt="Databricks">
 <img src="imgs/icones/icone-nocode-2.webp" width="40" height="40" alt="Inteligencia Artificial">
 <img src="imgs/icones/icone-agentes-ia-n8n.webp" width="40" height="40" alt="Agentes de IA">
 <img src="imgs/icones/icon-claude.svg" width="40" height="40" alt="Claude">
@@ -31,6 +31,8 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <img src="imgs/icones/icone-powerpoint.svg" width="40" height="40" alt="Power Point">
 <img src="imgs/icones/icon-agentes-ia-n8n.svg" width="40" height="40" alt="n8n">
 </p>
+
+[IR para](./claude/readme.md)
 
 <p align="center">
   <a href="https://skillicons.dev">
