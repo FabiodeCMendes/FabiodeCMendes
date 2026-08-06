@@ -1,3 +1,4 @@
+
 # 👋 Olá! Eu, Fabio Mendes, agradeço sua visita !
 
 ### 🏢 Sobre Mim
@@ -37,3 +38,14 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
     <img src="https://skillicons.dev/icons?i=anaconda,vscode,python,r,mysql,postgres,aws,azure,obsidian,figma,docker,github,linux,md,notion" />
   </a>
 /p>
+
+### 🌐 Conecte-se Comigo
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/1fabiomendes/" target="_blank">
+    <img src="/imgs/icone-linkedin.jfif" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fabiodecastromendes@gmail.com">
+    <img src="/imgs/icone-email.jfif" alt="Email" />
+  </a>
+</div>
