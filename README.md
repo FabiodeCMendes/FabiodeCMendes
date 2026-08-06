@@ -43,9 +43,11 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 
 <div align="left">
   <a href="https://www.linkedin.com/in/1fabiomendes/" target="_blank">
-    <img src="/imgs/icone-linkedin.jfif" alt="LinkedIn" />
+    <img src="/imgs/icones/icone-linkedin.jfif" width="30" height="30" alt="LinkedIn" />
   </a>
+  </div>
   <a href="mailto:fabiodecastromendes@gmail.com">
-    <img src="/imgs/icone-email.jfif" alt="Email" />
+    <img src="/imgs/icones/icone-email.jfif" width="30" height="30" alt="Email" />
   </a>
+<div align="left">  
 </div>
