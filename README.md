@@ -41,51 +41,51 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <p align="Left">
  
 #### Modelagem de dados </br>
-<a href=""><img src="imgs/icones/modelagem.png" width="40" height="40" alt="Modelagem Dimensional"></a>
-<a href=""><img src="imgs/icones/relationShip.png" width="40" height="40" alt="Modelagem Relacional"></a>
-<a href=""><img src="imgs/icones/analiseDados.png" width="40" height="40" alt="Análise de Dados"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/modelagem.png" width="40" height="40" alt="Modelagem Dimensional"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/relationShip.png" width="40" height="40" alt="Modelagem Relacional"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/analiseDados.png" width="40" height="40" alt="Análise de Dados"></a>
 
 #### ETL - Transformação dos dados </br>
-<a href=""><img src="imgs/icones/etl.png" width="40" height="40" alt="ETL/ELT"></a>
-<a href=""><img src="imgs/icones/Airflow.png" width="40" height="40" alt="Apache Airflow"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/etl.png" width="40" height="40" alt="ETL/ELT"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Airflow.png" width="40" height="40" alt="Apache Airflow"></a>
 
 #### Data Analysis e Business Intelligence
-<a href=""><img src="imgs/icones/powerbi.svg" width="40" height="40" alt="Power BI"></a>
-<a href=""><img src="imgs/icones/dax.png" width="40" height="40" alt="Power BI - DAX"></a>
-<a href=""><img src="imgs/icones/tmdl.svg" width="40" height="40" alt="TMDL (Tabular Model Definition Language)"></a>
-<a href=""><img src="imgs/icones/ClaudeCode.png" width="40" height="40" alt="Power BI & Claude Code"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/powerbi.svg" width="40" height="40" alt="Power BI"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/dax.png" width="40" height="40" alt="Power BI - DAX"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/tmdl.svg" width="40" height="40" alt="TMDL (Tabular Model Definition Language)"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/ClaudeCode.png" width="40" height="40" alt="Power BI & Claude Code"></a>
  </br>
  
 #### Ciência de Dados e Progamação
-<a href=""><img src="imgs/icones/DataScience.png" width="40" height="40" alt="Ciências de dados"></a>
-<a href=""><img src="imgs/icones/Python.png" width="40" height="40" alt="Python"></a>
-<a href=""><img src="imgs/icones/r.png" width="40" height="40" alt="Linguagem R"></a>
-<a href=""><img src="imgs/icones/Jupyter.png" width="40" height="40" alt="Jupyter  Notebook"></a>
-<a href=""><img src="imgs/icones/googleColab.png" width="40" height="40" alt=" Google Colab"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/DataScience.png" width="40" height="40" alt="Ciências de dados"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Python.png" width="40" height="40" alt="Python"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/r.png" width="40" height="40" alt="Linguagem R"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Jupyter.png" width="40" height="40" alt="Jupyter  Notebook"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/googleColab.png" width="40" height="40" alt=" Google Colab"></a>
  </br>
  
 #### Desenvolver Inteligência Artificial e Automação Cognitiva 
-<a href=""><img src="imgs/icones/ai.png" width="40" height="40" alt="Inteligência Artificial"></a>
-<a href=""><img src="imgs/icones/AgentesIA.jfif" width="40" height="40" alt="Agentes de IA"></a>
-<a href=""><img src="imgs/icones/SKILLS.png" width="40" height="40" alt=" SKILLS"></a>
-<a href=""><img src="imgs/icones/Claude.png" width="40" height="40" alt="Claude"></a>
-<a href=""><img src="imgs/icones/Gemini.jfif" width="40" height="40" alt="Google Gemini"></a>
-<a href=""><img src="imgs/icones/Ollama.jfif" width="40" height="40" alt="Ollama"></a>
-<a href=""><img src="imgs/icones/Codex.jfif" width="40" height="40" alt=" Codex"></a>
-<a href=""><img src="imgs/icones/Copilot.jfif" width="40" height="40" alt="Copilot"></a>
-<a href=""><img src="imgs/icones/notebooklm.png" width="40" height="40" alt="NotebookLM"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/ai.png" width="40" height="40" alt="Inteligência Artificial"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/AgentesIA.jfif" width="40" height="40" alt="Agentes de IA"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/SKILLS.png" width="40" height="40" alt=" SKILLS"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Claude.png" width="40" height="40" alt="Claude"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Gemini.jfif" width="40" height="40" alt="Google Gemini"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Ollama.jfif" width="40" height="40" alt="Ollama"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Codex.jfif" width="40" height="40" alt=" Codex"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Copilot.jfif" width="40" height="40" alt="Copilot"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/notebooklm.png" width="40" height="40" alt="NotebookLM"></a>
  </br>
  
 #### Cloud Automatizar Processos e Fluxos de Trabalho
-<a href=""><img src="imgs/icones/n8n.png" width="40" height="40" alt="n8n"></a>
-<a href=""><img src="imgs/icones/make.png" width="40" height="40" alt="Make"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/n8n.png" width="40" height="40" alt="n8n"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/make.png" width="40" height="40" alt="Make"></a>
 </br>
  
 #### Cloud
-<a href=""><img src="imgs/icones/Azure.jfif" width="40" height="40" alt="Azure"></a>
-<a href=""><img src="imgs/icones/AwsAthena.png" width="40" height="40" alt="AWS"></a>
-<a href=""><img src="imgs/icones/databricks.png" width="40" height="40" alt="Databricks"></a>
-<a href=""><img src="imgs/icones/Fabric.jfif" width="40" height="40" alt="Fabric"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Azure.jfif" width="40" height="40" alt="Azure"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/AwsAthena.png" width="40" height="40" alt="AWS"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/databricks.png" width="40" height="40" alt="Databricks"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Fabric.jfif" width="40" height="40" alt="Fabric"></a>
 </br>
 
 #### Bancos de Dados e Consultas 
