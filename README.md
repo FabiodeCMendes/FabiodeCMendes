@@ -65,13 +65,13 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
  </br>
  
 #### Desenvolver Inteligência Artificial e Automação Cognitiva 
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/ai.png" width="40" height="40" alt="Inteligência Artificial"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/AgentesIA.jfif" width="40" height="40" alt="Agentes de IA"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/SKILLS.png" width="40" height="40" alt=" SKILLS"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Claude.png" width="40" height="40" alt="Claude"></a>
+<a href="https://github.com/FabiodeCMendes/InteligênciaArtificial"><img src="imgs/icones/ai.png" width="40" height="40" alt="Inteligência Artificial"></a>
+<a href="https://github.com/FabiodeCMendes/AgentesIA"><img src="imgs/icones/AgentesIA.jfif" width="40" height="40" alt="Agentes de IA"></a>
+<a href="https://github.com/FabiodeCMendes/SKILLS"><img src="imgs/icones/SKILLS.png" width="40" height="40" alt=" SKILLS"></a>
+<a href="https://github.com/FabiodeCMendes/Claude"><img src="imgs/icones/Claude.png" width="40" height="40" alt="Claude"></a>
 <a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Gemini.jfif" width="40" height="40" alt="Google Gemini"></a>
 <a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Ollama.jfif" width="40" height="40" alt="Ollama"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Codex.jfif" width="40" height="40" alt=" Codex"></a>
+<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Codex.jfif" width="40" height="40" alt="Codex"></a>
 <a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Copilot.jfif" width="40" height="40" alt="Copilot"></a>
 <a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/notebooklm.png" width="40" height="40" alt="NotebookLM"></a>
  </br>
