@@ -41,17 +41,17 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <p align="Left">
  
 #### Modelagem de dados </br>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/modelagem.png" width="40" height="40" alt="Modelagem Dimensional"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/relationShip.png" width="40" height="40" alt="Modelagem Relacional"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/analiseDados.png" width="40" height="40" alt="Análise de Dados"></a>
+<a href="https://github.com/FabiodeCMendes/ModelagemDimensional"><img src="imgs/icones/modelagem.png" width="40" height="40" alt="Modelagem Dimensional"></a>
+<a href="https://github.com/FabiodeCMendes/ModelagemRelacional"><img src="imgs/icones/relationShip.png" width="40" height="40" alt="Modelagem Relacional"></a>
+<a href="https://github.com/FabiodeCMendes/AnalisedeDados"><img src="imgs/icones/analiseDados.png" width="40" height="40" alt="Análise de Dados"></a>
 
 #### ETL - Transformação dos dados </br>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/etl.png" width="40" height="40" alt="ETL/ELT"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Airflow.png" width="40" height="40" alt="Apache Airflow"></a>
+<a href="https://github.com/FabiodeCMendes/ETL"><img src="imgs/icones/etl.png" width="40" height="40" alt="ETL/ELT"></a>
+<a href="https://github.com/FabiodeCMendes/Airflow"><img src="imgs/icones/Airflow.png" width="40" height="40" alt="Apache Airflow"></a>
 
 #### Data Analysis e Business Intelligence
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/powerbi.svg" width="40" height="40" alt="Power BI"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/dax.png" width="40" height="40" alt="Power BI - DAX"></a>
+<a href="[https://github.com/FabiodeCMendes/Power_BI)"><img src="imgs/icones/powerbi.svg" width="40" height="40" alt="Power BI"></a>
+<a href="[https://github.com/FabiodeCMendes/DAX"><img src="imgs/icones/dax.png" width="40" height="40" alt="Power BI - DAX"></a>
 <a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/tmdl.svg" width="40" height="40" alt="TMDL (Tabular Model Definition Language)"></a>
 <a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/ClaudeCode.png" width="40" height="40" alt="Power BI & Claude Code"></a>
  </br>
