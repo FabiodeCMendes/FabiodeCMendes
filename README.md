@@ -50,18 +50,18 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <a href="https://github.com/FabiodeCMendes/Airflow"><img src="imgs/icones/Airflow.png" width="40" height="40" alt="Apache Airflow"></a>
 
 #### Data Analysis e Business Intelligence
-<a href="[https://github.com/FabiodeCMendes/Power_BI)"><img src="imgs/icones/powerbi.svg" width="40" height="40" alt="Power BI"></a>
-<a href="[https://github.com/FabiodeCMendes/DAX"><img src="imgs/icones/dax.png" width="40" height="40" alt="Power BI - DAX"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/tmdl.svg" width="40" height="40" alt="TMDL (Tabular Model Definition Language)"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/ClaudeCode.png" width="40" height="40" alt="Power BI & Claude Code"></a>
+<a href="https://github.com/FabiodeCMendes/Power_BI"><img src="imgs/icones/powerbi.svg" width="40" height="40" alt="Power BI"></a>
+<a href="https://github.com/FabiodeCMendes/DAX"><img src="imgs/icones/dax.png" width="40" height="40" alt="Power BI - DAX"></a>
+<a href="https://github.com/FabiodeCMendes/TMDL"><img src="imgs/icones/tmdl.svg" width="40" height="40" alt="TMDL (Tabular Model Definition Language)"></a>
+<a href="https://github.com/FabiodeCMendes/Claude_&_PowerBI"><img src="imgs/icones/ClaudeCode.png" width="40" height="40" alt="Power BI & Claude Code"></a>
  </br>
  
 #### Ciência de Dados e Progamação
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/DataScience.png" width="40" height="40" alt="Ciências de dados"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Python.png" width="40" height="40" alt="Python"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/r.png" width="40" height="40" alt="Linguagem R"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Jupyter.png" width="40" height="40" alt="Jupyter  Notebook"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/googleColab.png" width="40" height="40" alt=" Google Colab"></a>
+<a href="https://github.com/FabiodeCMendes/DataScience"><img src="imgs/icones/DataScience.png" width="40" height="40" alt="Ciências de dados"></a>
+<a href="https://github.com/FabiodeCMendes/Python"><img src="imgs/icones/Python.png" width="40" height="40" alt="Python"></a>
+<a href="https://github.com/FabiodeCMendes/Linguagem_R"><img src="imgs/icones/r.png" width="40" height="40" alt="Linguagem R"></a>
+<a href="https://github.com/FabiodeCMendes/JupyterNotebook"><img src="imgs/icones/Jupyter.png" width="40" height="40" alt="Jupyter Notebook"></a>
+<a href="https://github.com/FabiodeCMendes/GoogleColab"><img src="imgs/icones/googleColab.png" width="40" height="40" alt="Google Colab"></a>
  </br>
  
 #### Desenvolver Inteligência Artificial e Automação Cognitiva 
@@ -77,15 +77,15 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
  </br>
  
 #### Cloud Automatizar Processos e Fluxos de Trabalho
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/n8n.png" width="40" height="40" alt="n8n"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/make.png" width="40" height="40" alt="Make"></a>
+<a href="https://github.com/FabiodeCMendes/n8n"><img src="imgs/icones/n8n.png" width="40" height="40" alt="n8n"></a>
+<a href="https://github.com/FabiodeCMendes/make"><img src="imgs/icones/make.png" width="40" height="40" alt="Make"></a>
 </br>
  
 #### Cloud
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Azure.jfif" width="40" height="40" alt="Azure"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/AwsAthena.png" width="40" height="40" alt="AWS"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/databricks.png" width="40" height="40" alt="Databricks"></a>
-<a href="https://github.com/FabiodeCMendes/"><img src="imgs/icones/Fabric.jfif" width="40" height="40" alt="Fabric"></a>
+<a href="https://github.com/FabiodeCMendes/Azure"><img src="imgs/icones/Azure.jfif" width="40" height="40" alt="Azure"></a>
+<a href="https://github.com/FabiodeCMendes/Aws"><img src="imgs/icones/AwsAthena.png" width="40" height="40" alt="AWS"></a>
+<a href="https://github.com/FabiodeCMendes/Databricks"><img src="imgs/icones/databricks.png" width="40" height="40" alt="Databricks"></a>
+<a href="https://github.com/FabiodeCMendes/Fabric"><img src="imgs/icones/Fabric.jfif" width="40" height="40" alt="Fabric"></a>
 </br>
 
 #### Bancos de Dados e Consultas 
@@ -93,7 +93,8 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <a href="https://github.com/FabiodeCMendes/QryOracle"><img src="imgs/icones/Oracle.png" width="40" height="40" alt="Oracle"></a>
 <a href="https://github.com/FabiodeCMendes/MySql"><img src="imgs/icones/mySql.png" width="40" height="40" alt="my Sql"></a>
 <a href="https://github.com/FabiodeCMendes/SqlServer"><img src="imgs/icones/SQLServer.jfif" width="40" height="40" alt="SQL Server"></a>
-<a href="https://github.com/FabiodeCMendes/BigQuery"><img src="imgs/icones/googlebigQuery.png" width="40" height="40" alt="Google BigQuery"></a>
+<a href="https://github.com/FabiodeCMendes/BigData"><img src="imgs/icones/googlebigQuery.png" width="40" height="40" alt="Big Data"></a>
+<a href="https://github.com/FabiodeCMendes/GoogleBigQuery"><img src="imgs/icones/googlebigQuery.png" width="40" height="40" alt="Google BigQuery"></a>
 <a href="https://github.com/FabiodeCMendes/MsAccess"><img src="imgs/icones/msAccess.png" width="40" height="40" alt="MS Access"></a>
 <a href="https://github.com/FabiodeCMendes/Qry_Athena"><img src="imgs/icones/AwsAthena.png" width="40" height="40" alt="Athena - PresnoDB"></a>
 <a href="https://github.com/FabiodeCMendes/MongoDB"><img src="imgs/icones/MongoDB.jfif" width="40" height="40" alt="MongoDB"></a>
