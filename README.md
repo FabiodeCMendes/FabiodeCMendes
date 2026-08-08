@@ -20,6 +20,7 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <p align="center">
 <a href=""><img src="imgs/icones/icone-sql-azul.webp" width="40" height="40" alt="SQL"></a>
 <a href=""><img src="imgs/icones/icone-powerbi.svg" width="40" height="40" alt="Power BI"></a>
+<a href=""><img src="imgs/icones/icone-tmdl.svg" width="40" height="40" alt="TMDL - Tabular Model Definition Language"></a>  
 <a href=""><img src="imgs/icones/R_logo.svg.webp" width="40" height="40" alt="linguagem R"> </a> 
 <a href=""><img src="imgs/icones/icone-python.svg" width="40" height="40" alt="Python"></a>
 <a href=""><img src="imgs/icones/icon-analise-dados.svg" width="40" height="40" alt="Análise de Dados"></a>
