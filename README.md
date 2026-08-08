@@ -24,49 +24,47 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <a href=""><img src="imgs/icones/R_logo.svg.webp" width="40" height="40" alt="linguagem R"> </a> 
 <a href=""><img src="imgs/icones/icone-python.svg" width="40" height="40" alt="Python"></a>
 <a href=""><img src="imgs/icones/analise-dados.svg" width="40" height="40" alt="Análise de Dados"></a>
-<a href=""><img src="imgs/icones/ciencia-dados.svg" width="40" height="40" alt="Ciências de dados"></a>
+<a href=""><img src="imgs/icones/DataScience.png" width="40" height="40" alt="Ciências de dados"></a>
 <a href=""><img src="imgs/icones/databricks.png" width="40" height="40" alt="Databricks"></a>
-<a href=""><img src="imgs/icones/nocode-2.webp" width="40" height="40" alt="Inteligencia Artificial"></a>
-<a href=""><img src="imgs/icones/agentes-ia-n8n.webp" width="40" height="40" alt="Agentes de IA"></a>
+<a href=""><img src="imgs/icones/ai.png" width="40" height="40" alt="Inteligencia Artificial"></a>
+<a href=""><img src="imgs/icones/AgentesIA.jfif" width="40" height="40" alt="Agentes de IA"></a>
 <a href="https://github.com/FabiodeCMendes/Claude"><img src="imgs/icones/icon-claude.svg" width="40" height="40" alt="Claude"></a>
 <a href=""><img src="imgs/icones/excel.svg" width="40" height="40" alt="Excel"></a>
 <a href=""><img src="imgs/icones/powerpoint.svg" width="40" height="40" alt="Power Point"></a>
-<a href=""><img src="imgs/icones/agentes-ia-n8n.svg" width="40" height="40" alt="n8n"></a>
+<a href=""><img src="imgs/icones/n8n.png" width="40" height="40" alt="n8n"></a>
 </p>
 
 <br />
 
+---
 
-<p align="center">
-<!--Modelagem -->
+<p align="Left">
+ 
+#### Modelagem de dados </br>
 <a href=""><img src="imgs/icones/modelagem.png" width="40" height="40" alt="Modelagem Dimensional"></a>
 <a href=""><img src="imgs/icones/relationShip.png" width="40" height="40" alt="Modelagem Relacional"></a>
 <a href=""><img src="imgs/icones/analiseDados.png" width="40" height="40" alt="Análise de Dados"></a>
-</p>
 
-<p align="center">
+#### ETL - Transformação dos dados </br>
 <a href=""><img src="imgs/icones/etl.png" width="40" height="40" alt="ETL/ELT"></a>
 <a href=""><img src="imgs/icones/Airflow.png" width="40" height="40" alt="Apache Airflow"></a>
-</p>
 
-<p align="center">
+#### Data Analysis e Business Intelligence
 <a href=""><img src="imgs/icones/powerbi.svg" width="40" height="40" alt="Power BI"></a>
 <a href=""><img src="imgs/icones/dax.png" width="40" height="40" alt="Power BI - DAX"></a>
 <a href=""><img src="imgs/icones/tmdl.svg" width="40" height="40" alt="TMDL (Tabular Model Definition Language)"></a>
 <a href=""><img src="imgs/icones/ClaudeCode.png" width="40" height="40" alt="Power BI & Claude Code"></a>
-</p>
-
-<p align="center">
- <!--Programar e Praticar Ciência de Dados -->
+ </br>
+ 
+#### Ciência de Dados e Progamação
 <a href=""><img src="imgs/icones/DataScience.png" width="40" height="40" alt="Ciências de dados"></a>
 <a href=""><img src="imgs/icones/Python.png" width="40" height="40" alt="Python"></a>
 <a href=""><img src="imgs/icones/r.png" width="40" height="40" alt="Linguagem R"></a>
-<!--<a href=""><img src="imgs/icones/Anaconda.png" width="40" height="40" alt=""Anaconda></a>-->
 <a href=""><img src="imgs/icones/Jupyter.png" width="40" height="40" alt="Jupyter  Notebook"></a>
 <a href=""><img src="imgs/icones/googleColab.png" width="40" height="40" alt=" Google Colab"></a>
-</p>
-<p align="center">
- <!-- Desenvolver Inteligência Artificial e Automação Cognitiva -->
+ </br>
+ 
+#### Desenvolver Inteligência Artificial e Automação Cognitiva 
 <a href=""><img src="imgs/icones/ai.png" width="40" height="40" alt="Inteligência Artificial"></a>
 <a href=""><img src="imgs/icones/AgentesIA.jfif" width="40" height="40" alt="Agentes de IA"></a>
 <a href=""><img src="imgs/icones/SKILLS.png" width="40" height="40" alt=" SKILLS"></a>
@@ -76,22 +74,22 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <a href=""><img src="imgs/icones/Codex.jfif" width="40" height="40" alt=" Codex"></a>
 <a href=""><img src="imgs/icones/Copilot.jfif" width="40" height="40" alt="Copilot"></a>
 <a href=""><img src="imgs/icones/notebooklm.png" width="40" height="40" alt="NotebookLM"></a>
- </p>
-<p align="center">
- <!--cloud Automatizar Processos e Fluxos de Trabalhon8nMake-->
+ </br>
+ 
+#### Cloud Automatizar Processos e Fluxos de Trabalho
 <a href=""><img src="imgs/icones/n8n.png" width="40" height="40" alt="n8n"></a>
 <a href=""><img src="imgs/icones/make.png" width="40" height="40" alt="Make"></a>
-</p>
-<p align="center">
-  <!--cloud -->
+</br>
+ 
+#### Cloud
 <a href=""><img src="imgs/icones/Azure.jfif" width="40" height="40" alt="Azure"></a>
 <a href=""><img src="imgs/icones/AwsAthena.png" width="40" height="40" alt="AWS"></a>
 <a href=""><img src="imgs/icones/databricks.png" width="40" height="40" alt="Databricks"></a>
 <a href=""><img src="imgs/icones/Fabric.jfif" width="40" height="40" alt="Fabric"></a>
-</p>
-<p align="center">
- <!-- Organizar Dados com Bancos de Dados e Consultas -->
-<a href=""><img src="imgs/icones/sql.jpg" width="40" height="40" alt="SQL"></a>
+</br>
+
+#### Bancos de Dados e Consultas 
+<a href=""><img src="imgs/icones/icone-sql-azul.webp" width="40" height="40" alt="SQL"></a>
 <a href="https://github.com/FabiodeCMendes/QryOracle"><img src="imgs/icones/Oracle.png" width="40" height="40" alt="Oracle"></a>
 <a href="https://github.com/FabiodeCMendes/MySql"><img src="imgs/icones/mySql.png" width="40" height="40" alt="my Sql"></a>
 <a href="https://github.com/FabiodeCMendes/SqlServer"><img src="imgs/icones/SQLServer.jfif" width="40" height="40" alt="SQL Server"></a>
@@ -100,83 +98,13 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 <a href="https://github.com/FabiodeCMendes/Qry_Athena"><img src="imgs/icones/AwsAthena.png" width="40" height="40" alt="Athena - PresnoDB"></a>
 <a href="https://github.com/FabiodeCMendes/MongoDB"><img src="imgs/icones/MongoDB.jfif" width="40" height="40" alt="MongoDB"></a>
 <a href="https://github.com/FabiodeCMendes/Neo4j"><img src="imgs/icones/Neo4j.png" width="40" height="40" alt="Neo4j"></a>
-
-</p>
-<p align="center">
-<!--Pacote office e ferramentas Administrativas -->
+ </br>
+ 
+ #### Pacote office e ferramentas Administrativas 
 <a href="https://github.com/FabiodeCMendes/Excel"><img src="imgs/icones/excel.svg" width="40" height="40" alt="Excel"></a>
 <a href="https://github.com/FabiodeCMendes/PowerPoint"><img src="imgs/icones/powerpoint.svg" width="40" height="40" alt="Power Point"></a>
-</p>
-
-<p align="center">
-<!--Pacote office e ferramentas Administrativas -->
-<a href="https://github.com/FabiodeCMendes/Certificados"><img src="imgs/icones/certificados.png" width="40" height="40" alt="certificados/Cursos"></a>
-</p>
-
-
-### 🌐 Conecte-se Comigo
-
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/1fabiomendes/" target="_blank">
-    <img src="/imgs/icone-linkedin.jfif" alt="LinkedIn" />
-  </a>
-  <a href="mailto:fabiodecastromendes@gmail.com">
-    <img src="/imgs/icone-email.jfif" alt="Email" />
-  </a>
-</div>
-
-
-
-
-<p align="center">
-<!--Modelagem -->
-<a href=""><img src="imgs/icones/modelagem.png" width="40" height="40" alt="Modelagem Dimensional"></a>
-<a href=""><img src="imgs/icones/relationShip.png" width="40" height="40" alt="Modelagem Relacional"></a>
-<a href=""><img src="imgs/icones/analiseDados.png" width="40" height="40" alt="Análise de Dados"></a>
-<a href=""><img src="imgs/icones/etl.png" width="40" height="40" alt="ETL/ELT"></a>
-<a href=""><img src="imgs/icones/Airflow.png" width="40" height="40" alt="Apache Airflow"></a>
-<a href=""><img src="imgs/icones/powerbi.svg" width="40" height="40" alt="Power BI"></a>
-<a href=""><img src="imgs/icones/dax.png" width="40" height="40" alt="Power BI - DAX"></a>
-<a href=""><img src="imgs/icones/tmdl.svg" width="40" height="40" alt="TMDL (Tabular Model Definition Language)"></a>
-<a href=""><img src="imgs/icones/ClaudeCode.png" width="40" height="40" alt="Power BI & Claude Code"></a>
- <!--Programar e Praticar Ciência de Dados -->
-<a href=""><img src="imgs/icones/DataScience.png" width="40" height="40" alt="Ciências de dados"></a>
-<a href=""><img src="imgs/icones/Python.png" width="40" height="40" alt="Python"></a>
-<a href=""><img src="imgs/icones/r.png" width="40" height="40" alt="Linguagem R"></a>
-<!--<a href=""><img src="imgs/icones/Anaconda.png" width="40" height="40" alt=""Anaconda></a>-->
-<a href=""><img src="imgs/icones/Jupyter.png" width="40" height="40" alt="Jupyter  Notebook"></a>
-<a href=""><img src="imgs/icones/googleColab.png" width="40" height="40" alt=" Google Colab"></a>
-<!-- Desenvolver Inteligência Artificial e Automação Cognitiva -->
-<a href=""><img src="imgs/icones/ai.png" width="40" height="40" alt="Inteligência Artificial"></a>
-<a href=""><img src="imgs/icones/AgentesIA.jfif" width="40" height="40" alt="Agentes de IA"></a>
-<a href=""><img src="imgs/icones/SKILLS.png" width="40" height="40" alt=" SKILLS"></a>
-<a href=""><img src="imgs/icones/Claude.png" width="40" height="40" alt="Claude"></a>
-<a href=""><img src="imgs/icones/Gemini.jfif" width="40" height="40" alt="Google Gemini"></a>
-<a href=""><img src="imgs/icones/Ollama.jfif" width="40" height="40" alt="Ollama"></a>
-<a href=""><img src="imgs/icones/Codex.jfif" width="40" height="40" alt=" Codex"></a>
-<a href=""><img src="imgs/icones/Copilot.jfif" width="40" height="40" alt="Copilot"></a>
-<a href=""><img src="imgs/icones/notebooklm.png" width="40" height="40" alt="NotebookLM"></a>
- <!--cloud Automatizar Processos e Fluxos de Trabalhon8nMake-->
-<a href=""><img src="imgs/icones/n8n.png" width="40" height="40" alt="n8n"></a>
-<a href=""><img src="imgs/icones/make.png" width="40" height="40" alt="Make"></a>
-<a href=""><img src="imgs/icones/Azure.jfif" width="40" height="40" alt="Azure"></a>
-<a href=""><img src="imgs/icones/AwsAthena.png" width="40" height="40" alt="AWS"></a>
-<a href=""><img src="imgs/icones/databricks.png" width="40" height="40" alt="Databricks"></a>
-<a href=""><img src="imgs/icones/Fabric.jfif" width="40" height="40" alt="Fabric"></a>
- <!-- Organizar Dados com Bancos de Dados e Consultas -->
-<a href=""><img src="imgs/icones/sql.jpg" width="40" height="40" alt="SQL"></a>
-<a href="https://github.com/FabiodeCMendes/QryOracle"><img src="imgs/icones/Oracle.png" width="40" height="40" alt="Oracle"></a>
-<a href="https://github.com/FabiodeCMendes/MySql"><img src="imgs/icones/mySql.png" width="40" height="40" alt="my Sql"></a>
-<a href="https://github.com/FabiodeCMendes/SqlServer"><img src="imgs/icones/SQLServer.jfif" width="40" height="40" alt="SQL Server"></a>
-<a href="https://github.com/FabiodeCMendes/BigQuery"><img src="imgs/icones/googlebigQuery.png" width="40" height="40" alt="Google BigQuery"></a>
-<a href="https://github.com/FabiodeCMendes/MsAccess"><img src="imgs/icones/msAccess.png" width="40" height="40" alt="MS Access"></a>
-<a href="https://github.com/FabiodeCMendes/Qry_Athena"><img src="imgs/icones/AwsAthena.png" width="40" height="40" alt="Athena - PresnoDB"></a>
-<a href="https://github.com/FabiodeCMendes/MongoDB"><img src="imgs/icones/MongoDB.jfif" width="40" height="40" alt="MongoDB"></a>
-<a href="https://github.com/FabiodeCMendes/Neo4j"><img src="imgs/icones/Neo4j.png" width="40" height="40" alt="Neo4j"></a>
-<!--Pacote office e ferramentas Administrativas -->
-<a href="https://github.com/FabiodeCMendes/Excel"><img src="imgs/icones/excel.svg" width="40" height="40" alt="Excel"></a>
-<a href="https://github.com/FabiodeCMendes/PowerPoint"><img src="imgs/icones/powerpoint.svg" width="40" height="40" alt="Power Point"></a>
-<!--Pacote office e ferramentas Administrativas -->
+ </br>
+ 
+ #### Certificações, Diplomas e Cursos
 <a href="https://github.com/FabiodeCMendes/Certificados"><img src="imgs/icones/certificados.png" width="40" height="40" alt="certificados/Cursos"></a>
 </p>
