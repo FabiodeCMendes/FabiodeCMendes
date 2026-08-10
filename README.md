@@ -16,6 +16,7 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 | **Bancos de Dados & Armazenamento** | SQL, PL/SQL (CTE), Oracle, SQL Server, PostgreSQL, AWS Athena, Amazon S3 | Azure 
 | **Integração & Engenharia de Dados**| ETL, Modelagem Dimensional/Relacional, Data Warehouse, Cubos, Python |
 
+
 <br />
 <p align="center">
 <a href=""><img src="imgs/icones/icone-sql-azul.webp" width="40" height="40" alt="SQL"></a>
@@ -35,6 +36,18 @@ Tenho sólida vivência no mapeamento de requisitos junto a stakeholders, govern
 </p>
 
 <br />
+
+---
+
+**Habilidades:**   
+
+🤖 <a href="https://github.com/FabiodeCMendes/InteligenciaArtificial">Inteligência Artificial </a>  
+📊 <a href="https://github.com/FabiodeCMendes/AnalisedeDados">Análise de Dados </a>     
+⚙️ <a href="https://github.com/FabiodeCMendes/InteligenciaArtificial">Automação de Processos </a>     
+🗣️ <a href="https://github.com/FabiodeCMendes/InteligenciaArtificial">Comunicação </a>     
+🎯 <a href="https://github.com/FabiodeCMendes/InteligenciaArtificial">Visão e liderança estratégica </a>     
+🧠 <a href="https://github.com/FabiodeCMendes/InteligenciaArtificial">Resolução de Problemas </a>     
+⚖️ <a href="https://github.com/FabiodeCMendes/InteligenciaArtificial">Adaptabilidade e Aprendizado Contínuo </a>     
 
 ---
 
